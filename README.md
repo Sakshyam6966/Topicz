@@ -5,7 +5,7 @@
 <a href="https://disbots.xyz/user/830819118265401354">👤 G∙MAX</a><br>
 <a href="https://disbots.xyz/user/727031232243695626">👤 RoyalDj9730322</a><br>
 > # Modifiers
-> 👤 Masterious#0001</a><br>
+> 👤 - Masterious#0001</a><br>
 > 👤 - SΛКSHЏΛM#6969</a><br>
 > 👤 - NotUnknown#6969
 
