@@ -1,5 +1,4 @@
-# Vcodez.xyz
-
+# Topicz.xyz
 
 > # Developers
 <a href="https://disbots.xyz/user/830819118265401354">👤 G∙MAX</a><br>
