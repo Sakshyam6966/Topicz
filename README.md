@@ -35,9 +35,11 @@
 
 > **Need Help!?** [Join Our Help Server](https://discord.gg/eWpusb5yn4)
 > **Visit Our Website** [Click Here](https://topicz.xyz/)
-
-> **✅ Run This On Repl**- [Click Here](https://replit.com/@NotSakshyam6966/Topicz#README.md)<br>
-> **✅ Need Help?**- [Join Support Server](https://discord.gg/eWpusb5yn4)<br>
+> 
+> # 💨 **Run the projects**
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/vcodes-xyz/vcodes)<br>
+[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://replit.com/@NotSakshyam6966/Topicz#README.md)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcodes-xyz/vcodes)
 
 > *Some Screenshots*
 ![Screenshot 2021-08-22 130006](https://user-images.githubusercontent.com/88571629/130346121-7d6588a8-2ac9-4714-980e-90c20954642d.png)
