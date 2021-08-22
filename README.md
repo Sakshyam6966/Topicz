@@ -1,7 +1,7 @@
 # Topicz.xyz
 
 > # Developers
-<a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969
+<a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969Cancel changes
 <a href="https://topicz.xyz/user/693553429380857978">👤 Masterious#0001
 <a href="https://topicz.xyz/user/729554449844011130">👤 NotUnknown#6969
   
@@ -16,7 +16,7 @@
 <br>
 
 > # Credit / Developers
-[Vcodes](https://vcodes.xyz/)
+[Suport Vcodes](https://vcodes.xyz/)
 
 > # Whats new In Topicz.xyz?
 
