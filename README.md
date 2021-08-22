@@ -27,6 +27,9 @@
 - Emojis
 - Lots and LOTS Of Cmds
 - And Much much, more!
+- Added Premium 
+- Added Bug Report
+- Added Live Chat 24/7
 - New admin panel!  (Default light theme) 
 - Added (kinda) dark theme to the admin panel!
 
