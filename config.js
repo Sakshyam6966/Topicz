@@ -132,9 +132,9 @@
             },
         
             server: {
-                id: "860627883731320862",
-                invite: "https://discord.gg/4McmCFMqc6",
-                dblinvite: "https://discord.com/api/oauth2/authorize?client_id=863104463229550612&permissions=8&redirect_uri=https%3A%2F%2Fvcodez.xyz%2Fcallback&scope=bot",
+                id: "Server ID",
+                invite: "Invite Link",
+                dblinvite: "Bot Invite Link",
     roles: {
       yonetici: "",
       manager: "",
