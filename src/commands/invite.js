@@ -6,20 +6,32 @@ module.exports.run = async (client,message,args) => {
   let x = await botdata.find();
   let bots = await x.filter(a => a.ownerID == message.author.id || a.coowners.includes(message.author.id))
    const embed = new Discord.MessageEmbed()
-   .setAuthor(message.author.tag, message.author.avatarURL({dynamic: true}))
-   .setDescription(`<a:yes:833101995723194437> **[Vcodez Invite](https://vcodez.xyz)** <a:yes:833101995723194437>\n\nInvite me [here](https://discord.com/api/oauth2/authorize?client_id=863104463229550612&permissions=8&redirect_uri=https%3A%2F%2Fvcodez.xyz%2Fcallback&scope=bot)`)
+   .setTitle(`Invite Our Bot`)
+   .setDescription(`<:check:874980096535060520> [Website](https://topicz.xyz) <:check:874980096535060520>\n\n[Invite Bot List](https://discord.com/api/oauth2/authorize?client_id=874977292869316668&permissions=8&redirect_uri=https%3A%2F%2Ftopicz.xyz%2Fcallback&scope=bot)
+   [Invite Server List](https://discord.com/api/oauth2/authorize?client_id=875326994089406505&permissions=8&scope=bot)`)
    .setColor("#7289da")
-   .setFooter('Made with ❤️')
-      let button = new MessageButton()
+   .setTimestamp()
+  let button = new MessageButton()
   .setStyle('url')
-  .setURL('https://discord.com/api/oauth2/authorize?client_id=863104463229550612&permissions=8&redirect_uri=https%3A%2F%2Fvcodez.xyz%2Fcallback&scope=bot') 
-  .setLabel('Invite me')
-    .setEmoji('870019597791805521');
+  .setURL('https://discord.com/api/oauth2/authorize?client_id=874977292869316668&permissions=8&redirect_uri=https%3A%2F%2Ftopicz.xyz%2Fcallback&scope=bot') 
+  .setLabel('Invite Me')
+  .setEmoji('870019597791805521');
 
+  let button2 = new MessageButton()
+  .setStyle('url')
+  .setURL('https://discord.com/api/oauth2/authorize?client_id=875326994089406505&permissions=8&scope=bot') 
+  .setLabel('Invite Server List')
+  .setEmoji('870019597791805521');
 
-let row = new MessageActionRow()
-  .addComponents(button);
-return message.channel.send({ embed: embed, buttons: [ button ]
+  let button3 = new MessageButton()
+  .setStyle('url')
+  .setURL('https://topicz.xyz') 
+  .setLabel('Website')
+  .setEmoji('870019597791805521');
+
+//let row = new MessageActionRow()
+  //.addComponents(button);
+return message.channel.send({ embed: embed, buttons: [ button, button2, button3 ]
 });
    
    message.channel.send(embed)
@@ -32,7 +44,7 @@ exports.conf = {
   
   exports.help = {
     name: "invite",
-    description: "",
+    description: "invite the bot",
     usage: ""
   };
   
