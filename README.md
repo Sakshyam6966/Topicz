@@ -1,4 +1,6 @@
 # Topicz.xyz
+**Discord Server:** [Join Our Server](https://discord.gg/eWpusb5yn4)<br>
+**NPM:** [npmjs.com/package/vcodes.js](https://www.npmjs.com/package/vcodes.js)<br>
 
 > # Developers
 <a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969<br>
