@@ -1,9 +1,9 @@
 # Topicz.xyz
 
 > # Developers
-<a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969a><br>
-<a href="https://topicz.xyz/user/693553429380857978">👤 Masterious#0001a><br>
-<a href="https://topicz.xyz/user/729554449844011130">👤 NotUnknown#6969a><br>
+<a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969<br>
+<a href="https://topicz.xyz/user/693553429380857978">👤 Masterious#0001<br>
+<a href="https://topicz.xyz/user/729554449844011130">👤 NotUnknown#6969<br>
   
 > # Website Modifiers / Helpers 
 > 👤 - João Victor#0001</a><br>
@@ -18,7 +18,7 @@
 > # Credit / Developers
 [Suport Vcodes](https://vcodes.xyz/)
 
-> # Whats new In Topicz.xyz?
+> # Whats New Update In Topicz.xyz?
 
 - Colored Buttons
 - Better Syatem
