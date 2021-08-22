@@ -2,7 +2,7 @@
 
 > # Developers
 <a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969
-> <a href="https://topicz.xyz/user/693553429380857978">👤 Masterious#0001
+<a href="https://topicz.xyz/user/693553429380857978">👤 Masterious#0001
 <a href="https://topicz.xyz/user/729554449844011130">👤 NotUnknown#6969
   
 > # Modifiers
@@ -13,7 +13,7 @@
 
 <br><br>
 > # Demo
-<a href="https://topicz.xyz">Topicz.xyz</a>
+<a href="[Click Here To Visit Our Demo Website](https://topicz.xyz)">Topicz.xyz</a>
 <br>
 
 > # Credit 
