@@ -6,7 +6,8 @@
 <a href="https://disbots.xyz/user/727031232243695626">👤 RoyalDj9730322</a><br>
 > # Modifiers
 > 👤 Masterious#0001</a><br>
-> 👤 Evo Pro#1234
+> 👤 - SΛКSHЏΛM#6969
+> 👤 - NotUnknown#6969
 
 <br><br>
 > # Demo
