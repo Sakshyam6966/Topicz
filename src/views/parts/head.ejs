@@ -1,0 +1,151 @@
+<%- include('./meta.ejs') %>
+<head>
+</script>
+<style>
+.bg-indigo-600 {
+    --tw-bg-opacity: 1;
+    background: linear-gradient(-45deg, #e59191, #c30000, #ff3636, #1fc9ee, #00a1c3, #00c317, #4aff5f, #744aff, #ab16ff, #a292ea);
+    background-size: 400% 400%;
+	animation: gradient 30s ease infinite;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+</style>
+<div class="bg-indigo-600">
+  <div class="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
+    <div class="is-flex is-align-items-center justify-content-between is-flex-wrap">
+      <div class="w-0 is-flex-grow-1" style="align-items: center">
+        <span class="is-flex p-2 rounded-lg bg-indigo-600" style="opacity: 0%!important"></span><center><p class="ml-3 font-medium text-white truncate"><span><span class="pulse badge badge-danger is-size-6"><a href="https://github.com/mipcit1010/Vcodez" translate="no" rel="nofollow">We Are Now On <i class="fab fa-github"></i>&nbsp;Github!</a></span>&nbsp;</span><center></p></div></div></div></div></div>
+<meta name='dmca-site-verification' content='OEcrVEErMzk3S0ZvMk9Wa3V1d0xidz090' />
+    <nav class="navbar navbar-expand-lg navbar-dark p-2 pl-4 pr-4 bg-disbots z">
+        <div class="container">
+        <a title="Disbots" class="navbar-brand logoholder"><img id="logoimg" style="height:55px; width:55px;" src="../../img/logo.png" alt="Disbots"/></a>
+        <div class="sidebar-brand-text mx-3" style="text-shadow: 2px 2px 5px black;">Vcodez <sup>xyz</sup></div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation" style="border: none">
+          <span class="fad fa-bars fa-2x"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarColor02">
+          <ul class="navbar-nav mainlink mr-auto">
+            <% if(!req.originalUrl.includes('/server')) { %>
+            <li class="nav-item">
+              <a title="Disbots" class="nav-link nvhome" href="/"><i class="fad fa-home mr-1"></i> Home</a>
+            </li>
+            <li class="nav-item">
+              <a title="Disbots" class="nav-link" href="/bots"><i class="fad fa-robot mr-1"></i> Bots</a>
+            </li>
+            <li class="nav-item">
+                <a title="Disbots" class="nav-link" href="/dbl"><i class="fad fa-robot mr-1"></i> Invite DBL</a>
+            </li>
+
+            <% if(user) {%>
+            <li class="nav-item">
+                <a title="Disbots" class="nav-link" href="/addbot"><i class="fad fa-plus mr-1"></i> Add Bot</a>
+            </li>
+            <% } %>
+            <li class="nav-item">
+                <a title="Disbots" class="nav-link" href="/servers"><i class="fad fa-server mr-1"></i>Servers</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/news"><i class="fad fa-newspaper mr-1"></i>News <span class="badge badge-danger">New!</span></a>
+            </li>
+            <% } else { %>
+            <li class="nav-item">
+              <a title="Disbots" class="nav-link nvhome" href="/servers"><i class="fad fa-home mr-1"></i> Home</a>
+            </li>
+            <li class="nav-item">
+                <a title="Disbots" class="nav-link" href="/servers/tags"><i class="fad fa-tags mr-1"></i> Tags</a>
+            </li>
+            <li class="nav-item">
+                <a title="Disbots" class="nav-link" href="/"><i class="fad fa-robot mr-1"></i> Bots</a>
+            </li>
+            <li class="nav-item">
+                <a title="Disbots" class="nav-link" href="/dsl"><i class="fad fa-robot mr-1"></i> Invite DSL</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/news"><i class="fad fa-newspaper mr-1"></i>News <span class="badge badge-danger">New!</span></a>
+            </li>
+            <% if(user) {%>
+            <li class="nav-item"> 
+                <a title="Disbots" class="nav-link" href="/server/add"><i class="fad fa-plus mr-1"></i> Add Server</a>
+            </li>
+            <% } %>
+            <% } %>
+        <li class="nav-item dropdown" style="font-family: Arial, FontAwesome; z-index: 999999999; width: 100px;">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fad fa-ellipsis-h"></i>&nbsp;More
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" onclick="location.href='/partners'"><i class="fad fa-handshake"></i>&nbsp;Partners</a>
+            <a class="dropdown-item" onclick="location.href='/team'"><i class="fad fa-users mr-1"></i>&nbsp;Team</a>
+            <a class="dropdown-item" onclick="location.href='/rewards'"><i class="fad fa-coin mr-1"></i>&nbsp;Rewards</a>
+            <a class="dropdown-item" onclick="location.href='/promotion'"><i class="fad fa-stars"></i> Promotions</a>
+            <a class="dropdown-item" onclick="location.href='/credits'"><i class="fad fa-coin mr-1"></i>&nbsp;Credits</a>
+            <a class="dropdown-item" onclick="location.href='certification/apply'"><i class="fad fa-badge-check"></i>&nbsp;Certification</a>
+            <a class="dropdown-item" onclick="location.href='/status'"><i class="fad fa-chart-bar mr-1"></i>&nbsp;Status</a>
+            <a class="dropdown-item" onclick="location.href='/codes/categories'"><i class="fad fa-code"></i>&nbsp;Code Share</a>
+            <a class="dropdown-item"  onclick="location.href='/uptime/links'"><i class="fad fa-sync-alt"></i>&nbsp;Uptime</a>
+            <a class="dropdown-item"  onclick="location.href='/bugreport'"><i class="fal fa-bug"></i>&nbsp;Bug Report</a>
+            <a class="dropdown-item" onclick="location.href='/premium'"><i class="fad fa-stars"></i> Premium</a>
+            <% if(user) { %>
+                <% 
+                let guild = bot.guilds.cache.get(config.server.id).members.cache.get(user.id);
+                if(guild) {
+                if(guild.roles.cache.get(roles.administrator) || guild.roles.cache.get(roles.moderator)) {
+                %>
+                    <a title="Disbots" class="dropdown-item" href="/admin"><i class="fad fa-magic mr-1"></i> Admin Panel</a>
+
+                <% }} %>
+            <% } %>
+            </div>
+        </li>
+          </ul>
+          <ul class="navbar-nav ml-auto">
+            <% 
+            let languages = global.config.website.languages;
+            %>            
+            &nbsp;
+            <li class="nav-item dropdown">
+                  <a class="btn btn-disbots dropdown-toggle" href="#" id="navbarDropdown" translate="no" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="fad fa-globe"></i>&nbsp;Language
+                  </a>
+                <div class="dropdown-menu dropdown-menu-right" style="max-width:220px!important;">
+            <% languages.map(x => { %>
+                <a href="#" translate="no" onclick="doGTranslate('en|<%= x.code %>')" title="Disbots" class="dropdown-item">
+                <img src="https://www.countryflags.io/<%= x.flag %>/flat/32.png">
+                    &nbsp;<%= x.name %>
+                </a>
+                <% }) %>
+                </div>
+              </li>
+
+
+                                      &nbsp;
+                          <% if(user) {%>
+              <li class="nav-item dropdown">
+                  <a class="btn btn-disbots dropdown-toggle" href="#" translate="no" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <img width="24" style="border-radius: 50%" src='https://cdn.discordapp.com/avatars/<%= user.id %>/<%= user.avatar %>.png'>
+                    <%=user.username%><small>#<%=user.discriminator%></small>
+                  </a>
+                  <div class="dropdown-menu dropdown-menu-right" style="max-width:220px!important"><a class="dropdown-item" href="/user/<%= user.id %>">Profile</a> <a class="dropdown-item" href="/bot-rules">Add bot</a> <a class="dropdown-item" href="/server/add">Add server</a> <a class="dropdown-item" href="/logout"><i class="fas fa-sign-out-alt" style="color:blue"></i>&nbsp;Logout</a></div>
+              </li>
+            <% } else { %>
+            <li class="nav-item">
+                <a title="Disbots" class="btn btn-disbots" href="/uneed2login"><i class="fad fa-sign-in mr-1"></i> Login</a>
+            </li>
+	    <% } %>
+          </ul>
+        </div>
+        </div>
+
+      </nav>
