@@ -16,8 +16,8 @@
 <br>
 
 > # Credit / Developers
-> [Suport Vcodes](https://vcodes.xyz/)<br>
-> [Support Disbots](https://disbots.xyz/)<br>
+> [Suport Vcodes / Developers](https://vcodes.xyz/)<br>
+> [Support Disbots / Modifiers](https://disbots.xyz/)<br>
 
 > # Whats New Update In Topicz.xyz?
 
