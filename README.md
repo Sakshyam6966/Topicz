@@ -15,9 +15,9 @@
 <br>
 
 > # Credit 
-[vcodes](https://vcodes.xyz/)
+[Vcodes](https://vcodes.xyz/)
 
-> # Whats new In Vcodez.xyz?
+> # Whats new In Topicz.xyz?
 
 - Colored Buttons
 - Better Syatem
