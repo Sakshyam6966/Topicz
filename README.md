@@ -9,7 +9,6 @@
 > 👤 - João Victor#0001</a><br>
 > 👤 - NotMichx#6969</a><br>
 > 👤 - G∙MAX#5599</a><br>
-
 <br><br>
 > # Demo
 <a href="https://topicz.xyz/">Click Here To Visit Topicz</a>
