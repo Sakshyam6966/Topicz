@@ -46,6 +46,11 @@
 [![Run On Repl.It](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://replit.com/@NotSakshyam6966/Topicz#README.md)<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcodes-xyz/vcodes)
 
+> # ❓**SelfHosting**
+> Fork this repo
+> fill config.json
+> Need Support [Click Me](https://discord.gg/7dHSkaHE9w) 
+
 > *Some Screenshots*
 ![Screenshot 2021-08-22 130006](https://user-images.githubusercontent.com/88571629/130346121-7d6588a8-2ac9-4714-980e-90c20954642d.png)
 ![ss](https://user-images.githubusercontent.com/88571629/130346178-20fd8a9f-7203-44e9-a598-80363c269487.png)
