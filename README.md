@@ -1,5 +1,6 @@
 # Topicz.xyz
-**Discord Server:** [Join Our Server](https://discord.gg/eWpusb5yn4)<br>
+[![Discord Server](https://media.pocketgamer.biz/2021/5/110514/discord-new-logo-2021-r225x.jpg)](https://discord.gg/eWpusb5yn4)
+
 
 > # Developers
 <a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969<br>
@@ -39,7 +40,7 @@
 > 
 > # 💨 **Run the projects**
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/vcodes-xyz/vcodes)<br>
-[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://replit.com/@NotSakshyam6966/Topicz#README.md)<br>
+[![Run On Repl.It](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://replit.com/@NotSakshyam6966/Topicz#README.md)<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcodes-xyz/vcodes)
 
 > *Some Screenshots*
