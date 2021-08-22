@@ -4,7 +4,7 @@
                 token: process.env.BTOKEN, 
  // Bot List Bot Token
                 prefix: "+",
-                owners: ["693553429380857978", "751159519190450186"],
+                owners: ["729554449844011130", "745581095747059722"],
                 mongourl: process.env.MONGO,
                 servers: {
                     token: process.env.STOKEN, // Server List Bot Token
