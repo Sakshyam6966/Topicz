@@ -13,7 +13,7 @@
 
 <br><br>
 > # Demo
-<a href="Topicz.xyz">Topicz.xyz</a>
+<a href="https://topicz.xyz/">Click Here To Visit Topicz.xyz</a>
 <br>
 
 > # Credit 
