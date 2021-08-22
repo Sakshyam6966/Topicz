@@ -35,5 +35,12 @@
 
 
 
-> *Last Updated - Auguest 22, 2021*
+> *Some Screenshots*
 ![Screenshot 2021-08-22 130006](https://user-images.githubusercontent.com/88571629/130346121-7d6588a8-2ac9-4714-980e-90c20954642d.png)
+![ss](https://user-images.githubusercontent.com/88571629/130346178-20fd8a9f-7203-44e9-a598-80363c269487.png)
+![ddss](https://user-images.githubusercontent.com/88571629/130346198-23302c9a-ea60-4b7a-a7ab-1198c1027901.png)
+
+
+
+> *Last Updated - Auguest 22, 2021*
+
