@@ -47,9 +47,9 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcodes-xyz/vcodes)
 
 > # ❓**SelfHosting**
-> Fork this repo
-> fill config.json
-> Need Support [Click Me](https://discord.gg/7dHSkaHE9w) 
+- Fork this repo
+- fill config.json
+- Need Support [Click Me](https://discord.gg/7dHSkaHE9w) 
 
 > *Some Screenshots*
 ![Screenshot 2021-08-22 130006](https://user-images.githubusercontent.com/88571629/130346121-7d6588a8-2ac9-4714-980e-90c20954642d.png)
