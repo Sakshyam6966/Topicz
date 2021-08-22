@@ -1,16 +1,19 @@
 # Topicz.xyz
 
 > # Developers
-<a href="https://disbots.xyz/user/830819118265401354">👤 G∙MAX</a><br>
-<a href="https://disbots.xyz/user/727031232243695626">👤 RoyalDj9730322</a><br>
+> <a href="https://topicz.xyz/user/745581095747059722">👤 SΛКSHЏΛM#6969/a><br>
+<a href="https://topicz.xyz/user/693553429380857978">👤 Masterious#0001/a><br>
+<a href="https://topicz.xyz/user/729554449844011130">👤 NotUnknown#6969</a><br>
+  
 > # Modifiers
-> 👤 - Masterious#0001</a><br>
-> 👤 - SΛКSHЏΛM#6969</a><br>
-> 👤 - NotUnknown#6969
+> 👤 - G∙MAX#5599</a><br>
+> 👤 - João Victor#0001</a><br>
+> 👤 - João Victor#0001</a><br>
+
 
 <br><br>
 > # Demo
-<a href="https://disbots.xyz">Vcodez.xyz</a>
+<a href="https://topicz.xyz">Topicz.xyz</a>
 <br>
 
 > # Credit 
@@ -27,7 +30,8 @@
 - New admin panel!  (Default light theme) 
 - Added (kinda) dark theme to the admin panel!
 
--**Need Help!?** [Join Now](https://discord.gg/eWpusb5yn4)
+**Need Help!?** [Join Our Help Server](https://discord.gg/eWpusb5yn4)
+**Visit Our Website** [Click Here](https://topicz.xyz/)
 
 
 
