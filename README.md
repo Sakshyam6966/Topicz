@@ -6,6 +6,7 @@
 <a href="https://topicz.xyz/user/729554449844011130">👤 NotUnknown#6969
   
 > # Modifiers
+> 👤 - João Victor#0001</a><br>
 > 👤 - NotMichx#6969</a><br>
 > 👤 - G∙MAX#5599</a><br>
 <br><br>
@@ -14,7 +15,7 @@
 <a href="https://topicz.xyz/">Click Here To Visit Topicz</a>
 <br>
 
-> # Credit 
+> # Credit / Developers
 [Vcodes](https://vcodes.xyz/)
 
 > # Whats new In Topicz.xyz?
