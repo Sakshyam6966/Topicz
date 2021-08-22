@@ -17,6 +17,7 @@
 
 > # Credit / Developers
 [Suport Vcodes](https://vcodes.xyz/)
+[Support Disbots](https://disbots.xyz/)
 
 > # Whats New Update In Topicz.xyz?
 
