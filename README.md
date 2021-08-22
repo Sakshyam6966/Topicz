@@ -27,6 +27,5 @@
 - New admin panel!  (Default light theme) 
 - Added (kinda) dark theme to the admin panel!
 
-
-
-> #Updated - Auguest 22, 2021
+**Need Help!? (Join Now)[https://discord.gg/eWpusb5yn4]
+> Updated - Auguest 22, 2021
