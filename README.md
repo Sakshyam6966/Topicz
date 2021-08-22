@@ -49,7 +49,8 @@
 > # ❓**SelfHosting**
 - Fork this repo
 - fill config.json
-- Need Support [Click Me](https://discord.gg/7dHSkaHE9w) 
+- Need Help [Click Me](https://discord.gg/7dHSkaHE9w) 
+- Make Sure to give star
 
 > *Some Screenshots*
 ![Screenshot 2021-08-22 130006](https://user-images.githubusercontent.com/88571629/130346121-7d6588a8-2ac9-4714-980e-90c20954642d.png)
